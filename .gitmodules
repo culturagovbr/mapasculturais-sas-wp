@@ -1,0 +1,3 @@
+[submodule "src/wp-content/themes/cultural"]
+	path = src/wp-content/themes/cultural
+	url = https://github.com/culturagovbr/cultural.git
